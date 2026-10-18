@@ -1,0 +1,7 @@
+numpy
+matplotlib
+nibabel
+dipy
+scipy
+scikit-learn
+notebook
